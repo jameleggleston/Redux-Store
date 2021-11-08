@@ -31,7 +31,10 @@ On the application has loaded, the user will be able to browse all the products,
 
 ## Test
 
-example of how application works:</b>
+Screenshots below:</b>
+![caption](./images/screenshot1.jpg)
+![caption](./images/screenshot2.jpg)
+![caption](./images/screenshot3.jpg)
 
 
 
